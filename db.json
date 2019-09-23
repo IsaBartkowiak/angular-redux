@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brandId": 1,
+      "name": "BAM HEARTAGRAM QUAD 8\" DECK (BLACK GREY)",
+      "price": 42.99
+    },
+    {
+      "id": 2,
+      "brandId": 1,
+      "name": "Expedition Section 8\" Deck",
+      "price": 52.99
+    },
+    {
+      "id": 3,
+      "brandId": 1,
+      "name": "Huston On Point 8.125\" Deck",
+      "price": 69.99
+    },
+    {
+      "id": 4,
+      "brandId": 2,
+      "name": "Alvarez Window Sill 8.25\" Deck",
+      "price": 59.99
+    },
+    {
+      "id": 5,
+      "brandId": 2,
+      "name": "Cruz Window Sill 8\" Deck",
+      "price": 58.99
+    },
+    {
+      "id": 6,
+      "brandId": 2,
+      "name": "Anderson Folkloric 8\" Deck",
+      "price": 59.99
+    },
+    {
+      "id": 7,
+      "brandId": 3,
+      "name": "Team Rasta Panda 8.25\" Deck",
+      "price": 75.99
+    },
+    {
+      "id": 8,
+      "brandId": 3,
+      "name": "Repeater 8\" Deck",
+      "price": 52.99
+    },
+    {
+      "id": 9,
+      "brandId": 3,
+      "name": "Raining Cats & Dogs 8.25\" Deck",
+      "price": 50.99
+    },
+    {
+      "id": 10,
+      "brandId": 1,
+      "name": "Smith Message 8.5\" Deck",
+      "price": 64.99
+    }
+  ],
+  "brand": [
+    {
+      "id": 1,
+      "label": "Element"
+    },
+    {
+      "id": 2,
+      "label": "Chocolate"
+    },
+    {
+      "id": 3,
+      "label": "Enjoi"
+    }
+  ]
+}
