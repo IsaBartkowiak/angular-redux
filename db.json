@@ -61,7 +61,7 @@
       "price": 64.99
     }
   ],
-  "brand": [
+  "brands": [
     {
       "id": 1,
       "label": "Element"
